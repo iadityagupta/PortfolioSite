@@ -2,6 +2,8 @@
 
 Welcome to my personal portfolio website! I'm excited to share my journey, skills, and projects with you. This site is a reflection of my dedication to web development and design, showcasing my expertise in HTML, CSS, and JavaScript. Whether you're here to learn more about me, see my work, or get in touch, I hope you find what you're looking for and enjoy exploring my portfolio. Thank you for visiting!
 
+## To view a live example, click here. [_Portfolio_](https://iadityagupta.github.io/PortfolioSite/).
+
 
 ## Features 📋
 
@@ -31,7 +33,7 @@ Welcome to my personal portfolio website! I'm excited to share my journey, skill
 **✔️ Footer**: Additional links and info.
 
 
-To view a live example, click here. [_Portfolio_](https://iadityagupta.github.io/PortfolioSite/).
+
 
 
 
